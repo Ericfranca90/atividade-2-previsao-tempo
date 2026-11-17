@@ -50,7 +50,27 @@ Os dados são consultados no serviço oficial em XML do CPTEC/INPE:
 
 <https://servicos.cptec.inpe.br/XML/>
 
+## Verificação
+
+O aplicativo foi analisado, compilado e testado em um Samsung Galaxy A31 com
+Android 12. Foram conferidos a pesquisa de cidades, os quatro dias da previsão,
+o gráfico, a atualização, a mensagem de pesquisa sem resultados e a recuperação
+da última previsão após fechar e reabrir o aplicativo.
+
 ## Capturas de tela
 
-As capturas reais da pesquisa de cidades e da tela de previsão serão
-adicionadas após o teste final em um dispositivo Android.
+### Pesquisa de cidades
+
+![Pesquisa por Jacareí](docs/capturas/02-resultados-pesquisa.png)
+
+### Previsão e gráfico de temperaturas
+
+![Previsão e gráfico](docs/capturas/03-previsao-grafico.png)
+
+### Quatro dias retornados pelo serviço
+
+![Previsão para quatro dias](docs/capturas/04-previsao-quatro-dias.png)
+
+### Recuperação da previsão salva
+
+![Previsão recuperada do aparelho](docs/capturas/06-previsao-salva.png)
