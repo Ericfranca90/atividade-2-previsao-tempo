@@ -35,6 +35,13 @@ Ao abrir novamente o aplicativo, o botão **Ver última previsão** permite
 recuperar os dados salvos. Se uma atualização falhar, a previsão anterior não
 é apagada.
 
+## Ambiente utilizado
+
+- Flutter 3.47.7 (canal stable).
+- Dart 3.13.5.
+- Android SDK.
+- Dispositivo de teste: Samsung Galaxy A31 com Android 12.
+
 ## Como executar
 
 Com Flutter e Android SDK instalados, conecte um dispositivo Android e execute:
